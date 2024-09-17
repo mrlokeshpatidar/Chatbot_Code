@@ -7,7 +7,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain_community.chat_models import ChatOpenAI
 
 
-OPENAI_API_KEY = "sk-Wr5VzIVOwRoIyzTkQTjiaLQ6lSc84" #Pass your key here
+OPENAI_API_KEY = "" #Pass your key here
 
 
 #Upload PDF files
